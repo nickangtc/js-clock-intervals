@@ -1,7 +1,11 @@
 #clock {
+  position: relative;
 }
 
 #clock img {
+  position: absolute;
+  /*top: 20px;*/
+
 }
 
 #hour {
