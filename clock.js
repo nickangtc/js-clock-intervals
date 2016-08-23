@@ -1,5 +1,9 @@
 console.log("is js working?");
 
+// THINGS TO POLISH
+// 1) CREATE FUNCTION TO MAKE HOUR HAND MOVE SMOOTHLY (NOT CHOPPY)
+
+
 document.addEventListener('DOMContentLoaded', function() {
   var now = new Date();
   console.log(now);
